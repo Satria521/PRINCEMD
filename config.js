@@ -21,7 +21,7 @@ global.confirmCode = "BDD4431B"
 //💌------------------------------------------💌
 
 
-//💌global.pairingNumber = "" //put your bot number here💌
+//💌global.pairingNumber = "6283159962169" //put your bot number here💌
 global.mods = ['923092668108'] 
 global.prems = ['923092668108']
 global.allowed = ['923092668108']
